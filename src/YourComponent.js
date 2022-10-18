@@ -8,16 +8,16 @@ import Geocode from "react-geocode";
 * Use this component as a launching-pad to build your functionality.
 *
 */
-const Marker = (props: any) => {
-    const { color, name, id } = props;
-    return (
-      <div className="marker" class="maker"
-        style={{ backgroundColor: color, cursor: 'pointer', width: '10px', height: '10px'}}
-        title={name}
+//const Marker = (props: any) => {
+ //   const { color, name, id } = props;
+//    return (
+//      <div className="marker" class="maker"
+//        style={{ backgroundColor: color, cursor: 'pointer', width: '10px', height: '10px'}}
+//        title={name}
         
-           />
-    );
-  };
+ //          />
+ //   );
+// };
 
 
 
